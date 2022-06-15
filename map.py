@@ -1,6 +1,7 @@
-# This code was made for visualisation of data on a map,
-# using the folium library of Aerospace Science and Technology.
-# Department of the National and Kapodestrian University of Athens
+# This code was made for visualisation of data in map
+# using the folium library, from the team of students
+# of Aerospace Science and Technology Department of 
+# the National and Kapodestrian University of Athens
 
 # Aggelos Motsios           aggelosmots@gmail.com
 # Niki Papavasileiou        nikipapavasileiou01@gmail.com
