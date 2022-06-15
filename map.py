@@ -1,10 +1,9 @@
-# This code was made for CanSat Greece 2022 competition
-# for the 3rd High School of Rhodes by the team of students
-# of Aerospace Science and Technology Department of the
-# National and Kapodestrian University of Athens
+# This code was made for visualisation of data on a map,
+# using the folium library of Aerospace Science and Technology.
+# Department of the National and Kapodestrian University of Athens
 
 # Aggelos Motsios           aggelosmots@gmail.com
-# Niki Papavasileiou        nickypap01@gmail.com 
+# Niki Papavasileiou        nikipapavasileiou01@gmail.com
 # Mariana Mandilara         marianamandilara@gmail.com
 # Stella - Rafaela Maladaki maladakistella2001@gmail.com
 # Angela Mema               memaangela96@gmail.com
